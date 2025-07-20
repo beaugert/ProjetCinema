@@ -77,12 +77,11 @@ plt.ylabel("Studio")
 plt.show()
 
 <div style="text-align: center; margin-top: 20px;">
-    <img src="Images/WhatsApp Image 2025-07-20 at 15.05.26_b48a2c97" width="800" alt="Capture d'écran IMDB">
+    <img src="Images/WhatsApp_Image_2025-07-20_at_15.05.26_b48a2c97.png" width="800" alt="Capture d'écran IMDB">
     <p style="font-style: italic; color: #7f8c8d; margin-top: 10px;">
         Schéma de la base de données IMDB utilisée pour l'analyse.
     </p>
 </div>
-
 
 ## Visualisation : Distribution des Revenus Totaux des Films
 
@@ -97,7 +96,7 @@ plt.ylabel("Nombre de films / Densité")
 plt.show()
 
 <div style="text-align: center; margin-top: 20px;">
-    <img src="Images/WhatsApp Image 2025-07-20 at 15.05.26_b48a2c97.png
+    <img src="Images/Screenshot 2025-07-20 160423.png
 " width="800" alt="Capture d'écran IMDB">
     <p style="font-style: italic; color: #7f8c8d; margin-top: 10px;">
         Schéma de la base de données IMDB utilisée pour l'analyse.
