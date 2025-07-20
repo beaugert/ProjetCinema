@@ -97,7 +97,7 @@ plt.ylabel("Nombre de films / Densité")
 plt.show()
 
 <div style="text-align: center; margin-top: 20px;">
-    <img src="Images/Screenshot 2025-07-20 160423.png
+    <img src="Images/WhatsApp Image 2025-07-20 at 15.05.26_b48a2c97.png
 " width="800" alt="Capture d'écran IMDB">
     <p style="font-style: italic; color: #7f8c8d; margin-top: 10px;">
         Schéma de la base de données IMDB utilisée pour l'analyse.
